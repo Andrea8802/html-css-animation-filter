@@ -54,3 +54,12 @@
     filter: grayscale(1);
     
 }
+
+/* Esercizio 7 */
+.ex-7-img{
+    transition: all 3s ease;
+}
+
+.ex-7-img:hover{
+    filter: blur(2px) hue-rotate(90deg);
+}
