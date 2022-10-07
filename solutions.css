@@ -15,3 +15,12 @@
 .ex-2-square:active{
     width: 600px;
 }
+
+/* Esercizio 3 */
+.ex-3-square{
+    transition: all 3s ease;
+}
+
+.ex-3-square:hover{
+    border-radius: 100%;
+}
