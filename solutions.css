@@ -73,3 +73,14 @@
     filter: sepia(1) invert(1);
     border-radius: 20%;
 }
+
+/* Esercizio 9 */
+.ex-9-img{
+    transition: all 3s ease;
+}
+
+.ex-9-img:hover{
+    filter: brightness(0.8) grayscale(1);
+    border-radius: 20%;
+    width: 350px;
+}
